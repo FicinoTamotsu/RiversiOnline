@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Board.cs" />
+    <Compile Include="Assets\Script\BoardManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
